@@ -12,16 +12,16 @@
 данный проект не работает с платными API. вместо этого курсы криптовалют парсятся периодически с других сайтов 
 
 ### страница валюты:  
-![1](https://github.com/s2023alek/CryptocurrencyExchangeSitesRating/blob/5564641af39312b0853d65de8bce7050c6806420/README/screenshot_4.png)
+![1](https://github.com/2023samir/website-CryptocurrencyExchangeSitesRating/blob/72da9ad80d1663f63fb218bb62c6e29faaf96950/README/Screenshot_4.png)
 
 ### страница биржи:  
-![1](https://github.com/s2023alek/CryptocurrencyExchangeSitesRating/blob/75d3e6d97762c8ec2dca258fb542cf161293d6f2/README/Screenshot_3.png)
+![1](https://github.com/2023samir/website-CryptocurrencyExchangeSitesRating/blob/72da9ad80d1663f63fb218bb62c6e29faaf96950/README/Screenshot_3.png)
 
 ### список бирж:  
-![1](https://github.com/s2023alek/CryptocurrencyExchangeSitesRating/blob/75d3e6d97762c8ec2dca258fb542cf161293d6f2/README/Screenshot_2.png)
+![1](https://github.com/2023samir/website-CryptocurrencyExchangeSitesRating/blob/72da9ad80d1663f63fb218bb62c6e29faaf96950/README/Screenshot_2.png)
 
 ### список валют:  
-![1](https://github.com/s2023alek/CryptocurrencyExchangeSitesRating/blob/75d3e6d97762c8ec2dca258fb542cf161293d6f2/README/Screenshot_1.png)
+![1](https://github.com/2023samir/website-CryptocurrencyExchangeSitesRating/blob/72da9ad80d1663f63fb218bb62c6e29faaf96950/README/Screenshot_1.png)
 
 ### админка:  
 находится по адресу /admin  
