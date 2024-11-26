@@ -12,7 +12,7 @@
 данный проект не работает с платными API. вместо этого курсы криптовалют парсятся периодически с других сайтов 
 
 ### страница валюты:  
-![1](https://github.com/2023samir/website-CryptocurrencyExchangeSitesRating/blob/72da9ad80d1663f63fb218bb62c6e29faaf96950/README/Screenshot_4.png)
+![1](https://github.com/2023samir/website-CryptocurrencyExchangeSitesRating/blob/849a71af5e1a84b13a1266f23ddf143746751763/README/screenshot_4.png)
 
 ### страница биржи:  
 ![1](https://github.com/2023samir/website-CryptocurrencyExchangeSitesRating/blob/72da9ad80d1663f63fb218bb62c6e29faaf96950/README/Screenshot_3.png)
